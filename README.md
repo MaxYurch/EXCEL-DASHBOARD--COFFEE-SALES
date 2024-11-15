@@ -1,5 +1,7 @@
 # Coffee Sales Dashboard
 
+<img width="1186" alt="Screenshot 2024-11-15 at 5 56 12 PM" src="https://github.com/user-attachments/assets/096ad0eb-8c90-4eb7-a7a4-ed028adbd758">
+
 ## Overview
 The **Coffee Sales Dashboard** is an Excel-based project that visualizes coffee sales data, providing insights into key metrics and trends. The project includes data cleaning processes, advanced Excel functionalities such as XLOOKUP and Pivot Tables, and an interactive dashboard.
 
